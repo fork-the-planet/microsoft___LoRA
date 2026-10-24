@@ -13,10 +13,10 @@ streamlit
 elasticsearch
 nltk
 pandas
-datasets >= 1.1.3
+datasets >= 5.1.0
 fire
 pytest
 conllu
 sentencepiece != 0.1.92
 protobuf
-transformers==3.5.1
+transformers==5.10.1
